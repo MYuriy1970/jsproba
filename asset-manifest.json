@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jsproba/static/css/main.5d4ad575.css",
+    "main.js": "/jsproba/static/js/main.4926a2ec.js",
+    "index.html": "/jsproba/index.html",
+    "main.5d4ad575.css.map": "/jsproba/static/css/main.5d4ad575.css.map",
+    "main.4926a2ec.js.map": "/jsproba/static/js/main.4926a2ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d4ad575.css",
+    "static/js/main.4926a2ec.js"
+  ]
+}
